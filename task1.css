@@ -13,9 +13,9 @@
   background-color: #222;
   color: red;
   border-bottom: 1px solid #444;
- font-family: Monaco, monospace;
+  font-family: Monaco, monospace;
   font-weight: bold;
-transition: background-color 0.3s;
+  transition: background-color 0.3s;
 
 }
 
@@ -46,7 +46,7 @@ transition: background-color 0.3s;
       background-color:#fff;
       padding: 10px;
       cursor: pointer;
- transition: background-color 0.3s;
+      transition: background-color 0.3s;
     }
 
     .arrow-button.left {
@@ -63,7 +63,7 @@ transition: background-color 0.3s;
 
 h1 {
   font-size: 34px;
- font-family: Monaco;
+  font-family: Monaco;
 }
 
 .product-image {
@@ -82,7 +82,7 @@ h1 {
   text-decoration: none;
   font-weight: bold;
   border-radius: 5px;
-transition: background-color 0.3s;
+  transition: background-color 0.3s;
 }
 
 .cta-button:hover {
